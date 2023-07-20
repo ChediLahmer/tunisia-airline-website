@@ -60,7 +60,21 @@ Book tickets by providing passenger details and payment information.
 Log in to manage reservations, view booking status, and make changes.
 Access essential airline information, including baggage policy and contact details.
 Screenshots
-not ready yet
+![Screenshot_1](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/73e43d76-36d4-419d-bce1-d6c297adb103)
+![Screenshot_2](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/bb6eefec-ab98-43b1-b868-dfbf6a5dd71c)
+![Screenshot_3](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/fcc664b8-3b6e-4c4e-ae55-06c6cf6f2257)
+![Screenshot_4](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/1137e5bc-f7a2-4de0-a571-3998cb47552d)
+![Screenshot_5](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/c3f85b4a-2459-4c02-81e7-9e6d6354bcbe)
+![Screenshot_6](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/5a3d2377-b8e6-468d-afa7-c1e1ddcc5404)
+![Screenshot_7](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/d003601c-be2b-4cb2-8a05-20625d69cb5f)
+![Screenshot_8](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/08daee9b-fa01-471a-80be-59743f6cd451)
+![Screenshot_9](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/9f0c40a5-4e4b-4908-9f12-8cba189f791c)
+![Screenshot_10](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/42b3951d-e663-494d-bd03-f40a80ee0389)
+![Screenshot_11](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/36d93bda-1660-4bdf-aefc-b621974a2064)
+![Screenshot_12](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/b488f618-ca45-4fae-a592-18aad1f42023)
+![Screenshot_13](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/5533311d-275d-44ce-af95-a8b9644c155a)
+![Screenshot_14](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/2fd993bf-7ef8-499f-947e-61b4525c2456)
+![Screenshot_15](https://github.com/ChediLahmer/tunisia-airline-website/assets/131680831/51bac49b-0c09-4db2-9d22-21406314c14b)
 ### Homepage
 
 The homepage offers a clean and inviting interface to users.
